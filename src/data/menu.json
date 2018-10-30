@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "HOME"
+    },
+    {
+        "id": 2,
+        "name": "GALLERY"
+    },
+    {
+        "id": 3,
+        "name": "EVENTS"
+    },
+    {
+        "id": 4,
+        "name": "ABOUT"
+    },
+    {
+        "id": 5,
+        "name": "CONTACT"
+    }
+]
